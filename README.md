@@ -1,1 +1,1 @@
-# ibm_data_science_course
+# Labs for IBM Data Science Professional Certificate on Coursera
